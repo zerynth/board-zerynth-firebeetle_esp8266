@@ -1,1 +1,2 @@
-# board-zerynth-firebeetle_esp8266
+# firebeetle_esp8266
+
