@@ -1,9 +1,9 @@
 {
     "dependencies": {
-        "lib.espressif.esp8266wifi": "r2.0.11",
-        "sys.zerynth.esptool": "r2.0.11",
-        "sys.zerynth.xtensalx106": "r2.0.11",
-        "vhal.zerynth.xtensalx106_esp8266": "r2.0.11"
+        "lib.espressif.esp8266wifi": "r2.1.0",
+        "sys.zerynth.esptool": "r2.1.0",
+        "sys.zerynth.xtensalx106": "r2.1.0",
+        "vhal.zerynth.xtensalx106_esp8266": "r2.1.0"
     },
     "description": "Add support for DFRobot FireBeetle ESP8266",
     "fullname": "board.zerynth.firebeetle_esp8266",
@@ -22,6 +22,6 @@
     ],
     "repo": "official",
     "title": "DFRobot FireBeetle ESP8266 with esp8266 Support Package",
-    "version": "r2.0.11",
+    "version": "r2.1.0",
     "whatsnew": "First Release"
 }
