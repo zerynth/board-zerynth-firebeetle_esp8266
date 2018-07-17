@@ -23,6 +23,7 @@
     "virtualizable":"FireBeetleESP8266",
     "has_alter_ego":false,
     "uplink_reset": "reset",
+    "flash_erasable": true,
     "connection":{
         "baudrate":115200,
         "parity":"n",
